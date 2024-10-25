@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729877043 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\stacktp\main.cpp
+	<iostream>
+	"stack.h"
+
+1729877083 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\stacktp\stack.h
+
+1729877311 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\stacktp\stack.cpp
+	"stack.h"
+	<iostream>
+
